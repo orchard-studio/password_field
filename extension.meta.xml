@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="password_field" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Password Field</name>
+	<description>Password field creates an encrypted password using a regular text input field</description>
+	<repo type="github"></repo>
+	<url type="discuss"></url>
+	<types>
+		<type>Field Types</type>
+	</types>
+	<authors>
+		<author>
+			<name github="rowan-lewis" symphony="buzzomatic">Andrew Davis</name>
+			<website></website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1" date="">
+			- Password Field using regular text input
+		</release>
+	</releases>
+</extension>
